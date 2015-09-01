@@ -3,6 +3,8 @@ Go lang sample code showing how to serve dynamic and static content.
 
 Based on work of http://www.alexedwards.net/
 
+`**work in progress ..**' 
+
 To do:
 ------
 
