@@ -1,4 +1,4 @@
-Go lang sample code showing how to serve dynamic and static code.
+Go lang sample code showing how to serve dynamic and static content.
 -----------------------------------------------------------------
 
 Based on work of http://www.alexedwards.net/
